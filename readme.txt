@@ -1,4 +1,4 @@
-1.Type npm install so that require packages get downloaded.
+1.Type npm install in the terminal so that require packages get downloaded.
 	npm install
 
 2.Application is running on port 3000
